@@ -120,3 +120,8 @@ Swal.fire(
     'success'
   )
   
+  //EJEMPLO DE CODIGO GIT
+var saldo = 10000;
+if(saldo > 100){
+    console.log('Si es mayor');
+}
